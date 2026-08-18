@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/calvobyron60-commits?style=social)](https://github.com/calvobyron60-commits)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## About me...
+## About me... 👨‍💻
 
 
 >
@@ -21,6 +21,14 @@
 >
 >
 
+## Lenguages ⚔️
+
+>[!NOTE]
+>
+> - 🐍 Python 
+> - ☕ Java && javaScript
+> - ❗ Kotling (Learning)
+> 
 
 <br>
 
