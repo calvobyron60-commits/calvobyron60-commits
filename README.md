@@ -3,20 +3,22 @@
 </div>
 <img src="Banner.jpg">
 
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.instagram.com/hey_thisbyron.mt?igsh=MTVoZWR3OTcwdzVwbA%3D%3D&utm_source=qr)
 [![GitHub followers](https://img.shields.io/github/followers/calvobyron60-commits?style=social)](https://github.com/calvobyron60-commits)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## About me...
 
 
->[!IMPORTANT]
+>
+>[!NOTE]
 >- ⭐ Github Rock Star ⭐ 
 >- 📲 Learning mobile developing
 >- 🫡 In IA engeniering we trust
 >- ✏️ IT Student, want to learn ethical hacking 
 >- 🧑‍🏫 UTN (Technical National Univercity) 
 >- 🌅 Costa Rica 
+>
 >
 
 
