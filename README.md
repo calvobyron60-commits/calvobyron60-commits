@@ -5,7 +5,7 @@
 
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.instagram.com/hey_thisbyron.mt?igsh=MTVoZWR3OTcwdzVwbA%3D%3D&utm_source=qr)
 [![GitHub followers](https://img.shields.io/github/followers/calvobyron60-commits?style=social)](https://github.com/calvobyron60-commits)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)](https://discord.gg/a587wJtrU)
 
 ## About me... 👨‍💻
 
